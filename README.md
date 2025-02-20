@@ -1,6 +1,4 @@
-Here is an updated `README.md` file for your repository:
 
----
 
 # Machine Learning Repository
 
@@ -55,14 +53,3 @@ Open the desired notebook to explore and run the machine learning algorithms.
 
 Contributions are welcome! Please fork this repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Acknowledgements
-
-Thanks to all the contributors who have helped in creating and maintaining this repository.
-
----
-
-You can create the `README.md` file in your repository using the provided content.
